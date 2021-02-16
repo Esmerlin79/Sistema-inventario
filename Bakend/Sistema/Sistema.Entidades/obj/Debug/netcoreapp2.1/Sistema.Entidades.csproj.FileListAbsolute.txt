@@ -1,0 +1,17 @@
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.deps.json
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Bakend\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.deps.json
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Bakend\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Bakend\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Bakend\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csprojAssemblyReference.cache
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Bakend\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Bakend\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Bakend\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Bakend\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Bakend\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb

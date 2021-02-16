@@ -1,0 +1,15 @@
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Datos\bin\Debug\netcoreapp3.1\Sistema.Datos.deps.json
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Datos\bin\Debug\netcoreapp3.1\Sistema.Datos.dll
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Datos\bin\Debug\netcoreapp3.1\Sistema.Datos.pdb
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Datos\obj\Debug\netcoreapp3.1\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Datos\obj\Debug\netcoreapp3.1\Sistema.Datos.AssemblyInfoInputs.cache
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Datos\obj\Debug\netcoreapp3.1\Sistema.Datos.AssemblyInfo.cs
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Datos\obj\Debug\netcoreapp3.1\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Datos\obj\Debug\netcoreapp3.1\Sistema.Datos.dll
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Datos\obj\Debug\netcoreapp3.1\Sistema.Datos.pdb
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Datos\bin\Debug\netcoreapp3.1\Sistema.Datos.runtimeconfig.json
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Datos\bin\Debug\netcoreapp3.1\Sistema.Datos.runtimeconfig.dev.json
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Datos\bin\Debug\netcoreapp3.1\Sistema.Entidades.dll
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Datos\bin\Debug\netcoreapp3.1\Sistema.Entidades.pdb
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Datos\obj\Debug\netcoreapp3.1\Sistema.Datos.csproj.CopyComplete
+C:\Users\Haward\Desktop\Sistema vuejs y .net core\Sistema\Sistema.Datos\obj\Debug\netcoreapp3.1\Sistema.Datos.genruntimeconfig.cache
